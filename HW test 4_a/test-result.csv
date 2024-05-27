@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1716806118893,140,Отриати всіх героїв,200,OK,Thread Group 1-15,text,true,,318,126,49,49,http://localhost:3001/characters,135,0,106
+1716806118893,140,Отриати всіх героїв,200,OK,Thread Group 1-23,text,true,,318,126,49,49,http://localhost:3001/characters,135,0,106
+1716806118892,140,Отриати всіх героїв,200,OK,Thread Group 1-3,text,true,,318,126,49,49,http://localhost:3001/characters,135,0,106
+1716806118893,140,Отриати всіх героїв,200,OK,Thread Group 1-19,text,true,,318,126,49,49,http://localhost:3001/characters,135,0,106
+1716806118974,59,Отриати всіх героїв,200,OK,Thread Group 1-44,text,true,,318,126,49,49,http://localhost:3001/characters,54,0,25
+1716806118915,118,Отриати всіх героїв,200,OK,Thread Group 1-38,text,true,,318,126,50,50,http://localhost:3001/characters,113,0,84
+1716806118893,167,Отриати всіх героїв,200,OK,Thread Group 1-25,text,true,,318,126,52,52,http://localhost:3001/characters,167,0,107
+1716806118892,167,Отриати всіх героїв,200,OK,Thread Group 1-6,text,true,,318,126,52,52,http://localhost:3001/characters,167,0,106
+1716806118906,154,Отриати всіх героїв,200,OK,Thread Group 1-37,text,true,,318,126,52,52,http://localhost:3001/characters,154,0,94
+1716806118893,167,Отриати всіх героїв,200,OK,Thread Group 1-34,text,true,,318,126,52,52,http://localhost:3001/characters,167,0,107
+1716806118892,167,Отриати всіх героїв,200,OK,Thread Group 1-13,text,true,,318,126,52,52,http://localhost:3001/characters,167,0,106
+1716806118892,167,Отриати всіх героїв,200,OK,Thread Group 1-7,text,true,,318,126,52,52,http://localhost:3001/characters,167,0,107
+1716806118995,65,Отриати всіх героїв,200,OK,Thread Group 1-46,text,true,,318,126,52,52,http://localhost:3001/characters,65,0,4
+1716806118892,168,Отриати всіх героїв,200,OK,Thread Group 1-8,text,true,,318,126,52,52,http://localhost:3001/characters,168,0,106
+1716806118893,168,Отриати всіх героїв,200,OK,Thread Group 1-30,text,true,,318,126,52,52,http://localhost:3001/characters,168,0,106
+1716806118892,168,Отриати всіх героїв,200,OK,Thread Group 1-1,text,true,,318,126,52,52,http://localhost:3001/characters,168,0,107
+1716806118893,169,Отриати всіх героїв,200,OK,Thread Group 1-18,text,true,,318,126,52,52,http://localhost:3001/characters,169,0,106
+1716806118935,127,Отриати всіх героїв,200,OK,Thread Group 1-40,text,true,,318,126,52,52,http://localhost:3001/characters,127,0,65
+1716806118964,98,Отриати всіх героїв,200,OK,Thread Group 1-43,text,true,,318,126,52,52,http://localhost:3001/characters,98,0,36
+1716806118892,170,Отриати всіх героїв,200,OK,Thread Group 1-2,text,true,,318,126,52,52,http://localhost:3001/characters,170,0,106
+1716806118954,109,Отриати всіх героїв,200,OK,Thread Group 1-42,text,true,,318,126,52,52,http://localhost:3001/characters,109,0,46
+1716806118893,170,Отриати всіх героїв,200,OK,Thread Group 1-20,text,true,,318,126,52,52,http://localhost:3001/characters,170,0,107
+1716806118887,175,Отриати всіх героїв,200,OK,Thread Group 1-10,text,true,,318,126,53,53,http://localhost:3001/characters,175,0,112
+1716806119038,28,Отримати героя за id,200,OK,Thread Group 1-38,text,true,,266,127,53,53,http://localhost:3001/character/2,28,0,0
+1716806119038,28,Отримати героя за id,200,OK,Thread Group 1-23,text,true,,266,127,53,53,http://localhost:3001/character/2,28,0,0
+1716806119038,28,Отримати героя за id,200,OK,Thread Group 1-44,text,true,,266,127,53,53,http://localhost:3001/character/2,28,0,0
+1716806119038,28,Отримати героя за id,200,OK,Thread Group 1-15,text,true,,266,127,53,53,http://localhost:3001/character/2,28,0,0
+1716806119038,29,Отримати героя за id,200,OK,Thread Group 1-3,text,true,,266,127,53,53,http://localhost:3001/character/2,29,0,0
+1716806119062,6,Отримати героя за id,200,OK,Thread Group 1-8,text,true,,266,127,53,53,http://localhost:3001/character/2,6,0,0
+1716806119038,30,Отримати героя за id,200,OK,Thread Group 1-19,text,true,,266,127,53,53,http://localhost:3001/character/2,30,0,0
+1716806118894,173,Отриати всіх героїв,200,OK,Thread Group 1-14,text,true,,318,126,53,53,http://localhost:3001/characters,173,0,105
+1716806119025,44,Отриати всіх героїв,200,OK,Thread Group 1-49,text,true,,318,126,53,53,http://localhost:3001/characters,44,0,1
+1716806119063,6,Отримати героя за id,200,OK,Thread Group 1-42,text,true,,266,127,53,53,http://localhost:3001/character/2,6,0,0
+1716806119063,8,Отримати героя за id,200,OK,Thread Group 1-20,text,true,,266,127,53,53,http://localhost:3001/character/2,7,0,0
+1716806119061,10,Отримати героя за id,200,OK,Thread Group 1-46,text,true,,266,127,53,53,http://localhost:3001/character/2,10,0,0
+1716806119062,10,Отримати героя за id,200,OK,Thread Group 1-30,text,true,,266,127,53,53,http://localhost:3001/character/2,10,0,0
+1716806119061,13,Отримати героя за id,200,OK,Thread Group 1-6,text,true,,266,127,54,54,http://localhost:3001/character/2,13,0,0
+1716806119063,14,Отримати героя за id,200,OK,Thread Group 1-43,text,true,,266,127,54,54,http://localhost:3001/character/2,14,0,0
+1716806119062,16,Отримати героя за id,200,OK,Thread Group 1-1,text,true,,266,127,54,54,http://localhost:3001/character/2,16,0,0
+1716806119061,18,Отримати героя за id,200,OK,Thread Group 1-7,text,true,,266,127,54,54,http://localhost:3001/character/2,18,0,0
+1716806119062,19,Отримати героя за id,200,OK,Thread Group 1-40,text,true,,266,127,54,54,http://localhost:3001/character/2,19,0,0
+1716806119064,18,Отримати героя за id,200,OK,Thread Group 1-2,text,true,,266,127,54,54,http://localhost:3001/character/2,18,0,0
+1716806119060,23,Отримати героя за id,200,OK,Thread Group 1-13,text,true,,266,127,54,54,http://localhost:3001/character/2,23,0,0
+1716806119060,23,Отримати героя за id,200,OK,Thread Group 1-25,text,true,,266,127,54,54,http://localhost:3001/character/2,23,0,0
+1716806119061,23,Отримати героя за id,200,OK,Thread Group 1-37,text,true,,266,127,55,55,http://localhost:3001/character/2,23,0,0
+1716806119064,22,Отримати героя за id,200,OK,Thread Group 1-10,text,true,,266,127,55,55,http://localhost:3001/character/2,22,0,0
+1716806119060,27,Отримати героя за id,200,OK,Thread Group 1-34,text,true,,266,127,55,55,http://localhost:3001/character/2,27,0,0
+1716806119062,26,Отримати героя за id,200,OK,Thread Group 1-18,text,true,,266,127,55,55,http://localhost:3001/character/2,26,0,0
+1716806118887,201,Отриати всіх героїв,200,OK,Thread Group 1-12,text,true,,318,126,55,55,http://localhost:3001/characters,201,0,112
+1716806119068,24,Створити героя,200,OK,Thread Group 1-8,text,true,,235,231,55,55,http://localhost:3001/character,24,0,0
+1716806119069,24,Отримати героя за id,200,OK,Thread Group 1-49,text,true,,266,127,55,55,http://localhost:3001/character/2,24,0,0
+1716806119070,24,Створити героя,200,OK,Thread Group 1-42,text,true,,235,231,56,56,http://localhost:3001/character,24,0,0
+1716806119071,25,Створити героя,200,OK,Thread Group 1-20,text,true,,235,231,56,56,http://localhost:3001/character,25,0,0
+1716806119072,25,Створити героя,200,OK,Thread Group 1-46,text,true,,235,231,56,56,http://localhost:3001/character,25,0,0
+1716806119073,25,Створити героя,200,OK,Thread Group 1-30,text,true,,235,231,56,56,http://localhost:3001/character,25,0,0
+1716806119075,25,Створити героя,200,OK,Thread Group 1-6,text,true,,235,231,56,56,http://localhost:3001/character,25,0,0
+1716806119078,23,Створити героя,200,OK,Thread Group 1-43,text,true,,235,231,56,56,http://localhost:3001/character,23,0,0
+1716806119079,23,Створити героя,200,OK,Thread Group 1-1,text,true,,235,231,56,56,http://localhost:3001/character,23,0,0
+1716806119080,22,Створити героя,200,OK,Thread Group 1-7,text,true,,235,231,56,56,http://localhost:3001/character,22,0,0
+1716806119081,22,Створити героя,200,OK,Thread Group 1-40,text,true,,235,231,57,57,http://localhost:3001/character,22,0,0
+1716806119082,22,Створити героя,200,OK,Thread Group 1-2,text,true,,235,231,57,57,http://localhost:3001/character,22,0,0
+1716806119084,22,Створити героя,200,OK,Thread Group 1-13,text,true,,235,231,57,57,http://localhost:3001/character,22,0,0
+1716806119084,23,Створити героя,200,OK,Thread Group 1-25,text,true,,235,231,57,57,http://localhost:3001/character,23,0,0
+1716806119085,23,Створити героя,200,OK,Thread Group 1-37,text,true,,235,231,57,57,http://localhost:3001/character,23,0,0
+1716806119087,22,Створити героя,200,OK,Thread Group 1-10,text,true,,235,231,57,57,http://localhost:3001/character,22,0,0
+1716806119069,41,Отримати героя за id,200,OK,Thread Group 1-14,text,true,,266,127,57,57,http://localhost:3001/character/2,41,0,0
+1716806119068,43,Створити героя,200,OK,Thread Group 1-19,text,true,,235,231,57,57,http://localhost:3001/character,43,0,0
+1716806119067,45,Створити героя,200,OK,Thread Group 1-44,text,true,,235,231,57,57,http://localhost:3001/character,45,0,0
+1716806119068,45,Створити героя,200,OK,Thread Group 1-3,text,true,,235,231,57,57,http://localhost:3001/character,45,0,0
+1716806119067,54,Створити героя,200,OK,Thread Group 1-23,text,true,,235,231,58,58,http://localhost:3001/character,53,0,0
+1716806119067,54,Створити героя,200,OK,Thread Group 1-38,text,true,,235,231,58,58,http://localhost:3001/character,54,0,0
+1716806119067,55,Створити героя,200,OK,Thread Group 1-15,text,true,,235,231,58,58,http://localhost:3001/character,55,0,0
+1716806118945,179,Отриати всіх героїв,200,OK,Thread Group 1-41,text,true,,382,126,59,59,http://localhost:3001/characters,179,0,55
+1716806119093,32,Змінити героя,200,OK,Thread Group 1-8,text,true,,266,230,59,59,http://localhost:3001/character/2,32,0,0
+1716806119094,32,Створити героя,200,OK,Thread Group 1-49,text,true,,235,231,59,59,http://localhost:3001/character,32,0,0
+1716806119095,32,Змінити героя,200,OK,Thread Group 1-42,text,true,,266,230,59,59,http://localhost:3001/character/2,32,0,0
+1716806119096,32,Змінити героя,200,OK,Thread Group 1-20,text,true,,266,230,59,59,http://localhost:3001/character/2,32,0,0
+1716806119097,32,Змінити героя,200,OK,Thread Group 1-46,text,true,,266,230,59,59,http://localhost:3001/character/2,32,0,0
+1716806119099,31,Змінити героя,200,OK,Thread Group 1-30,text,true,,266,230,59,59,http://localhost:3001/character/2,31,0,0
+1716806119100,31,Змінити героя,200,OK,Thread Group 1-6,text,true,,266,230,59,59,http://localhost:3001/character/2,31,0,0
+1716806119101,31,Змінити героя,200,OK,Thread Group 1-43,text,true,,266,230,59,59,http://localhost:3001/character/2,31,0,0
+1716806119102,31,Змінити героя,200,OK,Thread Group 1-1,text,true,,266,230,59,59,http://localhost:3001/character/2,31,0,0
+1716806119103,30,Змінити героя,200,OK,Thread Group 1-7,text,true,,266,230,59,59,http://localhost:3001/character/2,30,0,0
+1716806119104,31,Змінити героя,200,OK,Thread Group 1-40,text,true,,266,230,60,60,http://localhost:3001/character/2,30,0,0
+1716806119105,31,Змінити героя,200,OK,Thread Group 1-2,text,true,,266,230,60,60,http://localhost:3001/character/2,31,0,0
+1716806119106,31,Змінити героя,200,OK,Thread Group 1-13,text,true,,266,230,60,60,http://localhost:3001/character/2,31,0,0
+1716806119108,30,Змінити героя,200,OK,Thread Group 1-25,text,true,,266,230,60,60,http://localhost:3001/character/2,30,0,0
+1716806119108,31,Змінити героя,200,OK,Thread Group 1-37,text,true,,266,230,60,60,http://localhost:3001/character/2,31,0,0
+1716806119109,31,Змінити героя,200,OK,Thread Group 1-10,text,true,,266,230,60,60,http://localhost:3001/character/2,31,0,0
+1716806119110,31,Створити героя,200,OK,Thread Group 1-14,text,true,,235,231,60,60,http://localhost:3001/character,31,0,0
+1716806119111,30,Змінити героя,200,OK,Thread Group 1-19,text,true,,266,230,60,60,http://localhost:3001/character/2,30,0,0
+1716806119112,30,Змінити героя,200,OK,Thread Group 1-44,text,true,,266,230,60,60,http://localhost:3001/character/2,30,0,0
+1716806119113,30,Змінити героя,200,OK,Thread Group 1-3,text,true,,266,230,60,60,http://localhost:3001/character/2,30,0,0
+1716806119121,23,Змінити героя,200,OK,Thread Group 1-23,text,true,,266,230,60,60,http://localhost:3001/character/2,23,0,0
+1716806119122,24,Змінити героя,200,OK,Thread Group 1-38,text,true,,266,230,61,61,http://localhost:3001/character/2,24,0,0
+1716806119123,24,Змінити героя,200,OK,Thread Group 1-15,text,true,,266,230,61,61,http://localhost:3001/character/2,24,0,0
+1716806119088,60,Створити героя,200,OK,Thread Group 1-34,text,true,,235,231,61,61,http://localhost:3001/character,60,0,0
+1716806119089,59,Створити героя,200,OK,Thread Group 1-18,text,true,,235,231,61,61,http://localhost:3001/character,59,0,0
+1716806119089,60,Отримати героя за id,200,OK,Thread Group 1-12,text,true,,266,127,61,61,http://localhost:3001/character/2,60,0,0
+1716806118926,224,Отриати всіх героїв,200,OK,Thread Group 1-39,text,true,,394,126,61,61,http://localhost:3001/characters,224,0,74
+1716806119126,47,Видалити героя ,200,OK,Thread Group 1-8,text,true,,249,213,63,63,http://localhost:3001/character/2,47,0,0
+1716806119127,47,Змінити героя,200,OK,Thread Group 1-49,text,true,,261,230,63,63,http://localhost:3001/character/2,46,0,0
+1716806119128,47,Видалити героя ,200,OK,Thread Group 1-42,text,true,,249,213,64,64,http://localhost:3001/character/2,47,0,0
+1716806119129,50,Видалити героя ,200,OK,Thread Group 1-20,text,true,,249,213,62,62,http://localhost:3001/character/2,50,0,0
+1716806119130,50,Видалити героя ,200,OK,Thread Group 1-46,text,true,,249,213,61,61,http://localhost:3001/character/2,50,0,0
+1716806119130,51,Видалити героя ,200,OK,Thread Group 1-30,text,true,,249,213,60,60,http://localhost:3001/character/2,51,0,0
+1716806119132,50,Видалити героя ,200,OK,Thread Group 1-6,text,true,,249,213,60,60,http://localhost:3001/character/2,50,0,0
+1716806119133,50,Видалити героя ,200,OK,Thread Group 1-43,text,true,,249,213,59,59,http://localhost:3001/character/2,50,0,0
+1716806119133,52,Видалити героя ,200,OK,Thread Group 1-1,text,true,,249,213,58,58,http://localhost:3001/character/2,52,0,0
+1716806119134,53,Видалити героя ,200,OK,Thread Group 1-7,text,true,,249,213,57,57,http://localhost:3001/character/2,53,0,0
+1716806119135,53,Видалити героя ,200,OK,Thread Group 1-40,text,true,,249,213,56,56,http://localhost:3001/character/2,53,0,0
+1716806119136,54,Видалити героя ,200,OK,Thread Group 1-2,text,true,,249,213,55,55,http://localhost:3001/character/2,54,0,0
+1716806119138,54,Видалити героя ,200,OK,Thread Group 1-13,text,true,,249,213,54,54,http://localhost:3001/character/2,54,0,0
+1716806119139,55,Видалити героя ,200,OK,Thread Group 1-25,text,true,,249,213,54,54,http://localhost:3001/character/2,55,0,0
+1716806119139,57,Видалити героя ,200,OK,Thread Group 1-37,text,true,,249,213,53,53,http://localhost:3001/character/2,57,0,0
+1716806119140,57,Видалити героя ,200,OK,Thread Group 1-10,text,true,,249,213,52,52,http://localhost:3001/character/2,57,0,0
+1716806119141,57,Змінити героя,200,OK,Thread Group 1-14,text,true,,235,230,51,51,http://localhost:3001/character/2,57,0,0
+1716806119142,57,Видалити героя ,200,OK,Thread Group 1-19,text,true,,249,213,51,51,http://localhost:3001/character/2,57,0,0
+1716806119143,57,Видалити героя ,200,OK,Thread Group 1-44,text,true,,249,213,50,50,http://localhost:3001/character/2,57,0,0
+1716806119144,57,Видалити героя ,200,OK,Thread Group 1-3,text,true,,249,213,49,49,http://localhost:3001/character/2,56,0,0
+1716806119145,57,Видалити героя ,200,OK,Thread Group 1-23,text,true,,249,213,48,48,http://localhost:3001/character/2,57,0,0
+1716806119147,56,Видалити героя ,200,OK,Thread Group 1-38,text,true,,249,213,47,47,http://localhost:3001/character/2,56,0,0
+1716806119147,57,Видалити героя ,200,OK,Thread Group 1-15,text,true,,249,213,46,46,http://localhost:3001/character/2,56,0,0
+1716806119148,56,Змінити героя,200,OK,Thread Group 1-34,text,true,,235,230,46,46,http://localhost:3001/character/2,56,0,0
+1716806119125,80,Отримати героя за id,200,OK,Thread Group 1-41,text,true,,235,127,46,46,http://localhost:3001/character/2,80,0,0
+1716806118892,313,Отриати всіх героїв,200,OK,Thread Group 1-5,text,true,,277,126,46,46,http://localhost:3001/characters,313,0,107
+1716806119174,34,Видалити героя ,200,OK,Thread Group 1-49,text,true,,249,213,46,46,http://localhost:3001/character/2,34,0,0
+1716806119198,12,Видалити героя ,200,OK,Thread Group 1-14,text,true,,249,213,45,45,http://localhost:3001/character/2,12,0,0
+1716806119205,6,Видалити героя ,200,OK,Thread Group 1-34,text,true,,249,213,44,44,http://localhost:3001/character/2,6,0,0
+1716806119149,63,Змінити героя,200,OK,Thread Group 1-18,text,true,,235,230,44,44,http://localhost:3001/character/2,63,0,0
+1716806119150,63,Створити героя,200,OK,Thread Group 1-12,text,true,,235,231,43,43,http://localhost:3001/character,63,0,0
+1716806119151,64,Отримати героя за id,200,OK,Thread Group 1-39,text,true,,235,127,44,44,http://localhost:3001/character/2,64,0,0
+1716806118895,321,Отриати всіх героїв,200,OK,Thread Group 1-36,text,true,,271,126,44,44,http://localhost:3001/characters,321,0,105
+1716806119213,12,Видалити героя ,200,OK,Thread Group 1-18,text,true,,249,213,45,45,http://localhost:3001/character/2,12,0,0
+1716806119214,12,Змінити героя,200,OK,Thread Group 1-12,text,true,,235,230,45,45,http://localhost:3001/character/2,12,0,0
+1716806119215,12,Створити героя,200,OK,Thread Group 1-39,text,true,,235,231,44,44,http://localhost:3001/character,12,0,0
+1716806119217,10,Отримати героя за id,200,OK,Thread Group 1-36,text,true,,235,127,44,44,http://localhost:3001/character/2,10,0,0
+1716806119206,22,Створити героя,200,OK,Thread Group 1-41,text,true,,235,231,44,44,http://localhost:3001/character,22,0,0
+1716806119207,22,Отримати героя за id,200,OK,Thread Group 1-5,text,true,,235,127,44,44,http://localhost:3001/character/2,22,0,0
+1716806118893,337,Отриати всіх героїв,200,OK,Thread Group 1-32,text,true,,274,126,44,44,http://localhost:3001/characters,337,0,108
+1716806119226,6,Видалити героя ,200,OK,Thread Group 1-12,text,true,,249,213,44,44,http://localhost:3001/character/2,6,0,0
+1716806119227,6,Змінити героя,200,OK,Thread Group 1-39,text,true,,235,230,45,45,http://localhost:3001/character/2,6,0,0
+1716806119228,6,Створити героя,200,OK,Thread Group 1-36,text,true,,235,231,44,44,http://localhost:3001/character,6,0,0
+1716806119228,7,Змінити героя,200,OK,Thread Group 1-41,text,true,,235,230,44,44,http://localhost:3001/character/2,7,0,0
+1716806119229,8,Створити героя,200,OK,Thread Group 1-5,text,true,,235,231,44,44,http://localhost:3001/character,8,0,0
+1716806118893,345,Отриати всіх героїв,200,OK,Thread Group 1-29,text,true,,277,126,44,44,http://localhost:3001/characters,345,0,108
+1716806119233,7,Видалити героя ,200,OK,Thread Group 1-39,text,true,,249,213,44,44,http://localhost:3001/character/2,7,0,0
+1716806119234,6,Змінити героя,200,OK,Thread Group 1-36,text,true,,235,230,44,44,http://localhost:3001/character/2,6,0,0
+1716806119236,5,Видалити героя ,200,OK,Thread Group 1-41,text,true,,249,213,43,43,http://localhost:3001/character/2,5,0,0
+1716806119231,11,Отримати героя за id,200,OK,Thread Group 1-32,text,true,,235,127,42,42,http://localhost:3001/character/2,11,0,0
+1716806118893,350,Отриати всіх героїв,200,OK,Thread Group 1-35,text,true,,271,126,42,42,http://localhost:3001/characters,350,0,107
+1716806119241,4,Видалити героя ,200,OK,Thread Group 1-36,text,true,,249,213,43,43,http://localhost:3001/character/2,4,0,0
+1716806119237,9,Змінити героя,200,OK,Thread Group 1-5,text,true,,235,230,42,42,http://localhost:3001/character/2,9,0,0
+1716806119238,9,Отримати героя за id,200,OK,Thread Group 1-29,text,true,,235,127,42,42,http://localhost:3001/character/2,9,0,0
+1716806118895,352,Отриати всіх героїв,200,OK,Thread Group 1-28,text,true,,268,126,42,42,http://localhost:3001/characters,352,0,105
+1716806119246,3,Видалити героя ,200,OK,Thread Group 1-5,text,true,,249,213,42,42,http://localhost:3001/character/2,3,0,0
+1716806119243,8,Створити героя,200,OK,Thread Group 1-32,text,true,,235,231,41,41,http://localhost:3001/character,8,0,0
+1716806119244,8,Отримати героя за id,200,OK,Thread Group 1-35,text,true,,235,127,41,41,http://localhost:3001/character/2,8,0,0
+1716806118892,360,Отриати всіх героїв,200,OK,Thread Group 1-4,text,true,,268,126,41,41,http://localhost:3001/characters,360,0,108
+1716806119252,4,Змінити героя,200,OK,Thread Group 1-32,text,true,,235,230,42,42,http://localhost:3001/character/2,4,0,0
+1716806119252,5,Створити героя,200,OK,Thread Group 1-35,text,true,,235,231,42,42,http://localhost:3001/character,5,0,0
+1716806119247,11,Створити героя,200,OK,Thread Group 1-29,text,true,,235,231,42,42,http://localhost:3001/character,11,0,0
+1716806119248,11,Отримати героя за id,200,OK,Thread Group 1-28,text,true,,235,127,42,42,http://localhost:3001/character/2,11,0,0
+1716806118983,277,Отриати всіх героїв,200,OK,Thread Group 1-45,text,true,,274,126,42,42,http://localhost:3001/characters,277,0,17
+1716806119256,6,Видалити героя ,200,OK,Thread Group 1-32,text,true,,249,213,42,42,http://localhost:3001/character/2,6,0,0
+1716806119257,5,Змінити героя,200,OK,Thread Group 1-35,text,true,,235,230,42,42,http://localhost:3001/character/2,5,0,0
+1716806119259,4,Змінити героя,200,OK,Thread Group 1-29,text,true,,235,230,42,42,http://localhost:3001/character/2,4,0,0
+1716806119253,11,Отримати героя за id,200,OK,Thread Group 1-4,text,true,,235,127,42,42,http://localhost:3001/character/2,11,0,0
+1716806118893,372,Отриати всіх героїв,200,OK,Thread Group 1-17,text,true,,271,126,42,42,http://localhost:3001/characters,372,0,108
+1716806119263,4,Видалити героя ,200,OK,Thread Group 1-35,text,true,,249,213,42,42,http://localhost:3001/character/2,4,0,0
+1716806119264,4,Видалити героя ,200,OK,Thread Group 1-29,text,true,,249,213,41,41,http://localhost:3001/character/2,4,0,0
+1716806119260,9,Створити героя,200,OK,Thread Group 1-28,text,true,,235,231,41,41,http://localhost:3001/character,8,0,0
+1716806119261,8,Отримати героя за id,200,OK,Thread Group 1-45,text,true,,235,127,40,40,http://localhost:3001/character/2,8,0,0
+1716806118887,383,Отриати всіх героїв,200,OK,Thread Group 1-11,text,true,,268,126,40,40,http://localhost:3001/characters,383,0,112
+1716806119269,5,Змінити героя,200,OK,Thread Group 1-28,text,true,,235,230,41,41,http://localhost:3001/character/2,5,0,0
+1716806119270,5,Створити героя,200,OK,Thread Group 1-45,text,true,,235,231,41,41,http://localhost:3001/character,5,0,0
+1716806119265,12,Створити героя,200,OK,Thread Group 1-4,text,true,,235,231,41,41,http://localhost:3001/character,12,0,0
+1716806119266,12,Отримати героя за id,200,OK,Thread Group 1-17,text,true,,235,127,41,41,http://localhost:3001/character/2,12,0,0
+1716806118888,391,Отриати всіх героїв,200,OK,Thread Group 1-21,text,true,,274,126,41,41,http://localhost:3001/characters,391,0,113
+1716806119274,7,Видалити героя ,200,OK,Thread Group 1-28,text,true,,249,213,41,41,http://localhost:3001/character/2,7,0,0
+1716806119275,7,Змінити героя,200,OK,Thread Group 1-45,text,true,,235,230,41,41,http://localhost:3001/character/2,7,0,0
+1716806119277,6,Змінити героя,200,OK,Thread Group 1-4,text,true,,235,230,40,40,http://localhost:3001/character/2,6,0,0
+1716806119272,12,Отримати героя за id,200,OK,Thread Group 1-11,text,true,,235,127,40,40,http://localhost:3001/character/2,12,0,0
+1716806118888,397,Отриати всіх героїв,200,OK,Thread Group 1-27,text,true,,271,126,41,41,http://localhost:3001/characters,397,0,112
+1716806119282,7,Видалити героя ,200,OK,Thread Group 1-45,text,true,,249,213,41,41,http://localhost:3001/character/2,7,0,0
+1716806119283,7,Видалити героя ,200,OK,Thread Group 1-4,text,true,,249,213,40,40,http://localhost:3001/character/2,7,0,0
+1716806119278,13,Створити героя,200,OK,Thread Group 1-17,text,true,,235,231,39,39,http://localhost:3001/character,13,0,0
+1716806119279,13,Отримати героя за id,200,OK,Thread Group 1-21,text,true,,235,127,39,39,http://localhost:3001/character/2,13,0,0
+1716806118893,399,Отриати всіх героїв,200,OK,Thread Group 1-33,text,true,,268,126,39,39,http://localhost:3001/characters,399,0,108
+1716806119291,3,Змінити героя,200,OK,Thread Group 1-17,text,true,,235,230,39,39,http://localhost:3001/character/2,3,0,0
+1716806119286,9,Отримати героя за id,200,OK,Thread Group 1-27,text,true,,235,127,40,40,http://localhost:3001/character/2,9,0,0
+1716806119285,11,Створити героя,200,OK,Thread Group 1-11,text,true,,235,231,40,40,http://localhost:3001/character,11,0,0
+1716806118895,404,Отриати всіх героїв,200,OK,Thread Group 1-26,text,true,,271,126,40,40,http://localhost:3001/characters,404,0,106
+1716806119295,5,Видалити героя ,200,OK,Thread Group 1-17,text,true,,249,213,40,40,http://localhost:3001/character/2,5,0,0
+1716806119295,6,Створити героя,200,OK,Thread Group 1-27,text,true,,235,231,39,39,http://localhost:3001/character,6,0,0
+1716806119297,5,Змінити героя,200,OK,Thread Group 1-11,text,true,,235,230,39,39,http://localhost:3001/character/2,5,0,0
+1716806119292,11,Створити героя,200,OK,Thread Group 1-21,text,true,,235,231,39,39,http://localhost:3001/character,11,0,0
+1716806119293,11,Отримати героя за id,200,OK,Thread Group 1-33,text,true,,235,127,39,39,http://localhost:3001/character/2,11,0,0
+1716806118893,412,Отриати всіх героїв,200,OK,Thread Group 1-16,text,true,,274,126,39,39,http://localhost:3001/characters,412,0,107
+1716806119302,4,Змінити героя,200,OK,Thread Group 1-27,text,true,,235,230,40,40,http://localhost:3001/character/2,4,0,0
+1716806119302,5,Видалити героя ,200,OK,Thread Group 1-11,text,true,,249,213,40,40,http://localhost:3001/character/2,5,0,0
+1716806119300,8,Отримати героя за id,200,OK,Thread Group 1-26,text,true,,235,127,40,40,http://localhost:3001/character/2,8,0,0
+1716806119054,255,Отриати всіх героїв,200,OK,Thread Group 1-52,text,true,,271,126,39,39,http://localhost:3001/characters,255,0,0
+1716806119306,5,Видалити героя ,200,OK,Thread Group 1-27,text,true,,249,213,39,39,http://localhost:3001/character/2,5,0,0
+1716806119303,9,Змінити героя,200,OK,Thread Group 1-21,text,true,,235,230,38,38,http://localhost:3001/character/2,9,0,0
+1716806119304,9,Створити героя,200,OK,Thread Group 1-33,text,true,,235,231,38,38,http://localhost:3001/character,9,0,0
+1716806119305,9,Отримати героя за id,200,OK,Thread Group 1-16,text,true,,235,127,39,39,http://localhost:3001/character/2,9,0,0
+1716806118893,422,Отриати всіх героїв,200,OK,Thread Group 1-31,text,true,,271,126,39,39,http://localhost:3001/characters,422,0,108
+1716806119312,6,Видалити героя ,200,OK,Thread Group 1-21,text,true,,249,213,39,39,http://localhost:3001/character/2,6,0,0
+1716806119313,5,Змінити героя,200,OK,Thread Group 1-33,text,true,,235,230,39,39,http://localhost:3001/character/2,5,0,0
+1716806119314,5,Створити героя,200,OK,Thread Group 1-16,text,true,,235,231,38,38,http://localhost:3001/character,5,0,0
+1716806119308,12,Створити героя,200,OK,Thread Group 1-26,text,true,,235,231,38,38,http://localhost:3001/character,12,0,0
+1716806119309,12,Отримати героя за id,200,OK,Thread Group 1-52,text,true,,235,127,38,38,http://localhost:3001/character/2,12,0,0
+1716806118893,429,Отриати всіх героїв,200,OK,Thread Group 1-22,text,true,,274,126,38,38,http://localhost:3001/characters,429,0,108
+1716806119319,5,Видалити героя ,200,OK,Thread Group 1-33,text,true,,249,213,39,39,http://localhost:3001/character/2,5,0,0
+1716806119319,6,Змінити героя,200,OK,Thread Group 1-16,text,true,,235,230,38,38,http://localhost:3001/character/2,6,0,0
+1716806119320,6,Змінити героя,200,OK,Thread Group 1-26,text,true,,235,230,38,38,http://localhost:3001/character/2,6,0,0
+1716806119315,11,Отримати героя за id,200,OK,Thread Group 1-31,text,true,,235,127,38,38,http://localhost:3001/character/2,11,0,0
+1716806118893,434,Отриати всіх героїв,200,OK,Thread Group 1-24,text,true,,271,126,38,38,http://localhost:3001/characters,434,0,108
+1716806119326,3,Видалити героя ,200,OK,Thread Group 1-16,text,true,,249,213,38,38,http://localhost:3001/character/2,3,0,0
+1716806119322,8,Отримати героя за id,200,OK,Thread Group 1-22,text,true,,235,127,38,38,http://localhost:3001/character/2,8,0,0
+1716806119321,11,Створити героя,200,OK,Thread Group 1-52,text,true,,235,231,37,37,http://localhost:3001/character,11,0,0
+1716806118887,445,Отриати всіх героїв,200,OK,Thread Group 1-9,text,true,,271,126,38,38,http://localhost:3001/characters,445,0,112
+1716806119331,5,Створити героя,200,OK,Thread Group 1-22,text,true,,235,231,38,38,http://localhost:3001/character,5,0,0
+1716806119327,12,Створити героя,200,OK,Thread Group 1-31,text,true,,235,231,38,38,http://localhost:3001/character,12,0,0
+1716806119327,13,Видалити героя ,200,OK,Thread Group 1-26,text,true,,249,213,38,38,http://localhost:3001/character/2,13,0,0
+1716806119328,13,Отримати героя за id,200,OK,Thread Group 1-24,text,true,,235,127,38,38,http://localhost:3001/character/2,13,0,0
+1716806119015,328,Отриати всіх героїв,200,OK,Thread Group 1-47,text,true,,274,126,37,37,http://localhost:3001/characters,327,0,4
+1716806119337,7,Змінити героя,200,OK,Thread Group 1-22,text,true,,235,230,37,37,http://localhost:3001/character/2,7,0,0
+1716806119339,5,Змінити героя,200,OK,Thread Group 1-31,text,true,,235,230,37,37,http://localhost:3001/character/2,5,0,0
+1716806119332,14,Змінити героя,200,OK,Thread Group 1-52,text,true,,235,230,38,38,http://localhost:3001/character/2,14,0,0
+1716806119333,13,Отримати героя за id,200,OK,Thread Group 1-9,text,true,,235,127,38,38,http://localhost:3001/character/2,13,0,0
+1716806119018,328,Отриати всіх героїв,200,OK,Thread Group 1-48,text,true,,274,126,38,38,http://localhost:3001/characters,328,0,1
+1716806119344,5,Видалити героя ,200,OK,Thread Group 1-22,text,true,,249,213,38,38,http://localhost:3001/character/2,5,0,0
+1716806119344,5,Видалити героя ,200,OK,Thread Group 1-31,text,true,,249,213,38,38,http://localhost:3001/character/2,5,0,0
+1716806119341,9,Створити героя,200,OK,Thread Group 1-24,text,true,,235,231,38,38,http://localhost:3001/character,8,0,0
+1716806119343,10,Отримати героя за id,200,OK,Thread Group 1-47,text,true,,235,127,36,36,http://localhost:3001/character/2,10,0,0
+1716806119035,320,Отриати всіх героїв,200,OK,Thread Group 1-50,text,true,,271,126,37,37,http://localhost:3001/characters,320,0,1
+1716806119350,8,Змінити героя,200,OK,Thread Group 1-24,text,true,,235,230,37,37,http://localhost:3001/character/2,8,0,0
+1716806119346,13,Створити героя,200,OK,Thread Group 1-9,text,true,,235,231,37,37,http://localhost:3001/character,13,0,0
+1716806119346,14,Отримати героя за id,200,OK,Thread Group 1-48,text,true,,235,127,37,37,http://localhost:3001/character/2,14,0,0
+1716806119346,15,Видалити героя ,200,OK,Thread Group 1-52,text,true,,249,213,37,37,http://localhost:3001/character/2,15,0,0
+1716806119045,319,Отриати всіх героїв,200,OK,Thread Group 1-51,text,true,,271,126,36,36,http://localhost:3001/characters,318,0,1
+1716806119359,6,Видалити героя ,200,OK,Thread Group 1-24,text,true,,249,213,37,37,http://localhost:3001/character/2,6,0,0
+1716806119360,6,Змінити героя,200,OK,Thread Group 1-9,text,true,,235,230,36,36,http://localhost:3001/character/2,6,0,0
+1716806119360,8,Створити героя,200,OK,Thread Group 1-48,text,true,,235,231,36,36,http://localhost:3001/character,8,0,0
+1716806119353,16,Створити героя,200,OK,Thread Group 1-47,text,true,,235,231,36,36,http://localhost:3001/character,16,0,0
+1716806119356,13,Отримати героя за id,200,OK,Thread Group 1-50,text,true,,235,127,36,36,http://localhost:3001/character/2,13,0,0
+1716806119065,305,Отриати всіх героїв,200,OK,Thread Group 1-53,text,true,,274,126,36,36,http://localhost:3001/characters,305,0,1
+1716806119367,6,Видалити героя ,200,OK,Thread Group 1-9,text,true,,249,213,36,36,http://localhost:3001/character/2,6,0,0
+1716806119368,6,Змінити героя,200,OK,Thread Group 1-48,text,true,,235,230,36,36,http://localhost:3001/character/2,6,0,0
+1716806119369,8,Змінити героя,200,OK,Thread Group 1-47,text,true,,235,230,36,36,http://localhost:3001/character/2,8,0,0
+1716806119370,8,Створити героя,200,OK,Thread Group 1-50,text,true,,235,231,36,36,http://localhost:3001/character,8,0,0
+1716806119364,15,Отримати героя за id,200,OK,Thread Group 1-51,text,true,,235,127,36,36,http://localhost:3001/character/2,15,0,0
+1716806119075,305,Отриати всіх героїв,200,OK,Thread Group 1-54,text,true,,274,126,36,36,http://localhost:3001/characters,305,0,1
+1716806119375,6,Видалити героя ,200,OK,Thread Group 1-48,text,true,,249,213,36,36,http://localhost:3001/character/2,6,0,0
+1716806119377,5,Видалити героя ,200,OK,Thread Group 1-47,text,true,,249,213,35,35,http://localhost:3001/character/2,5,0,0
+1716806119378,5,Змінити героя,200,OK,Thread Group 1-50,text,true,,235,230,34,34,http://localhost:3001/character/2,5,0,0
+1716806119371,13,Отримати героя за id,200,OK,Thread Group 1-53,text,true,,235,127,34,34,http://localhost:3001/character/2,13,0,0
+1716806119085,300,Отриати всіх героїв,200,OK,Thread Group 1-55,text,true,,268,126,35,35,http://localhost:3001/characters,300,0,1
+1716806119379,7,Створити героя,200,OK,Thread Group 1-51,text,true,,235,231,35,35,http://localhost:3001/character,7,0,0
+1716806119380,7,Отримати героя за id,200,OK,Thread Group 1-54,text,true,,235,127,35,35,http://localhost:3001/character/2,7,0,0
+1716806119094,297,Отриати всіх героїв,200,OK,Thread Group 1-56,text,true,,271,126,35,35,http://localhost:3001/characters,297,0,1
+1716806119387,6,Змінити героя,200,OK,Thread Group 1-51,text,true,,235,230,35,35,http://localhost:3001/character/2,6,0,0
+1716806119388,6,Створити героя,200,OK,Thread Group 1-54,text,true,,235,231,35,35,http://localhost:3001/character,6,0,0
+1716806119383,12,Видалити героя ,200,OK,Thread Group 1-50,text,true,,249,213,36,36,http://localhost:3001/character/2,12,0,0
+1716806119385,12,Створити героя,200,OK,Thread Group 1-53,text,true,,235,231,35,35,http://localhost:3001/character,12,0,0
+1716806119386,12,Отримати героя за id,200,OK,Thread Group 1-55,text,true,,235,127,35,35,http://localhost:3001/character/2,12,0,0
+1716806119104,295,Отриати всіх героїв,200,OK,Thread Group 1-57,text,true,,274,126,35,35,http://localhost:3001/characters,295,0,1
+1716806119393,7,Видалити героя ,200,OK,Thread Group 1-51,text,true,,249,213,35,35,http://localhost:3001/character/2,7,0,0
+1716806119394,7,Змінити героя,200,OK,Thread Group 1-54,text,true,,235,230,34,34,http://localhost:3001/character/2,7,0,0
+1716806119397,5,Змінити героя,200,OK,Thread Group 1-53,text,true,,235,230,34,34,http://localhost:3001/character/2,5,0,0
+1716806119391,13,Отримати героя за id,200,OK,Thread Group 1-56,text,true,,235,127,34,34,http://localhost:3001/character/2,13,0,0
+1716806119115,290,Отриати всіх героїв,200,OK,Thread Group 1-58,text,true,,271,126,35,35,http://localhost:3001/characters,290,0,1
+1716806119401,5,Видалити героя ,200,OK,Thread Group 1-54,text,true,,249,213,35,35,http://localhost:3001/character/2,5,0,0
+1716806119402,5,Видалити героя ,200,OK,Thread Group 1-53,text,true,,249,213,34,34,http://localhost:3001/character/2,5,0,0
+1716806119398,10,Створити героя,200,OK,Thread Group 1-55,text,true,,235,231,33,33,http://localhost:3001/character,10,0,0
+1716806119399,10,Отримати героя за id,200,OK,Thread Group 1-57,text,true,,235,127,33,33,http://localhost:3001/character/2,10,0,0
+1716806119125,285,Отриати всіх героїв,200,OK,Thread Group 1-59,text,true,,268,126,33,33,http://localhost:3001/characters,285,0,1
+1716806119408,4,Змінити героя,200,OK,Thread Group 1-55,text,true,,235,230,33,33,http://localhost:3001/character/2,4,0,0
+1716806119404,8,Створити героя,200,OK,Thread Group 1-56,text,true,,235,231,33,33,http://localhost:3001/character,8,0,0
+1716806119405,8,Отримати героя за id,200,OK,Thread Group 1-58,text,true,,235,127,33,33,http://localhost:3001/character/2,8,0,0
+1716806119134,282,Отриати всіх героїв,200,OK,Thread Group 1-60,text,true,,271,126,34,34,http://localhost:3001/characters,282,0,1
+1716806119412,7,Видалити героя ,200,OK,Thread Group 1-55,text,true,,249,213,34,34,http://localhost:3001/character/2,7,0,0
+1716806119413,7,Змінити героя,200,OK,Thread Group 1-56,text,true,,235,230,34,34,http://localhost:3001/character/2,7,0,0
+1716806119413,8,Створити героя,200,OK,Thread Group 1-58,text,true,,235,231,33,33,http://localhost:3001/character,8,0,0
+1716806119416,6,Отримати героя за id,200,OK,Thread Group 1-60,text,true,,235,127,33,33,http://localhost:3001/character/2,6,0,0
+1716806119410,13,Створити героя,200,OK,Thread Group 1-57,text,true,,235,231,33,33,http://localhost:3001/character,13,0,0
+1716806119410,14,Отримати героя за id,200,OK,Thread Group 1-59,text,true,,235,127,34,34,http://localhost:3001/character/2,14,0,0
+1716806119146,279,Отриати всіх героїв,200,OK,Thread Group 1-61,text,true,,274,126,34,34,http://localhost:3001/characters,279,0,2
+1716806119421,5,Видалити героя ,200,OK,Thread Group 1-56,text,true,,249,213,34,34,http://localhost:3001/character/2,5,0,0
+1716806119422,6,Змінити героя,200,OK,Thread Group 1-58,text,true,,235,230,33,33,http://localhost:3001/character/2,6,0,0
+1716806119422,6,Створити героя,200,OK,Thread Group 1-60,text,true,,235,231,33,33,http://localhost:3001/character,6,0,0
+1716806119155,275,Отриати всіх героїв,200,OK,Thread Group 1-62,text,true,,274,126,33,33,http://localhost:3001/characters,275,0,1
+1716806119423,8,Змінити героя,200,OK,Thread Group 1-57,text,true,,235,230,33,33,http://localhost:3001/character/2,8,0,0
+1716806119424,9,Створити героя,200,OK,Thread Group 1-59,text,true,,235,231,33,33,http://localhost:3001/character,9,0,0
+1716806119425,9,Отримати героя за id,200,OK,Thread Group 1-61,text,true,,235,127,34,34,http://localhost:3001/character/2,9,0,0
+1716806119164,273,Отриати всіх героїв,200,OK,Thread Group 1-63,text,true,,277,126,34,34,http://localhost:3001/characters,273,0,1
+1716806119431,8,Видалити героя ,200,OK,Thread Group 1-57,text,true,,249,213,34,34,http://localhost:3001/character/2,8,0,0
+1716806119433,7,Змінити героя,200,OK,Thread Group 1-59,text,true,,235,230,33,33,http://localhost:3001/character/2,7,0,0
+1716806119435,6,Створити героя,200,OK,Thread Group 1-61,text,true,,235,231,33,33,http://localhost:3001/character,6,0,0
+1716806119429,15,Видалити героя ,200,OK,Thread Group 1-58,text,true,,249,213,34,34,http://localhost:3001/character/2,15,0,0
+1716806119429,16,Змінити героя,200,OK,Thread Group 1-60,text,true,,235,230,33,33,http://localhost:3001/character/2,16,0,0
+1716806119431,16,Отримати героя за id,200,OK,Thread Group 1-62,text,true,,235,127,33,33,http://localhost:3001/character/2,16,0,0
+1716806119175,273,Отриати всіх героїв,200,OK,Thread Group 1-64,text,true,,274,126,33,33,http://localhost:3001/characters,272,0,2
+1716806119441,8,Видалити героя ,200,OK,Thread Group 1-59,text,true,,249,213,33,33,http://localhost:3001/character/2,8,0,0
+1716806119442,7,Змінити героя,200,OK,Thread Group 1-61,text,true,,235,230,33,33,http://localhost:3001/character/2,7,0,0
+1716806119438,14,Отримати героя за id,200,OK,Thread Group 1-63,text,true,,235,127,32,32,http://localhost:3001/character/2,14,0,0
+1716806119184,268,Отриати всіх героїв,200,OK,Thread Group 1-65,text,true,,271,126,32,32,http://localhost:3001/characters,268,0,1
+1716806119450,4,Видалити героя ,200,OK,Thread Group 1-61,text,true,,249,213,32,32,http://localhost:3001/character/2,4,0,0
+1716806119446,9,Видалити героя ,200,OK,Thread Group 1-60,text,true,,249,213,33,33,http://localhost:3001/character/2,9,0,0
+1716806119448,9,Отримати героя за id,200,OK,Thread Group 1-64,text,true,,235,127,31,31,http://localhost:3001/character/2,8,0,0
+1716806119448,10,Створити героя,200,OK,Thread Group 1-62,text,true,,235,231,31,31,http://localhost:3001/character,10,0,0
+1716806119195,265,Отриати всіх героїв,200,OK,Thread Group 1-66,text,true,,268,126,31,31,http://localhost:3001/characters,265,0,1
+1716806119457,5,Створити героя,200,OK,Thread Group 1-64,text,true,,235,231,31,31,http://localhost:3001/character,5,0,0
+1716806119459,4,Змінити героя,200,OK,Thread Group 1-62,text,true,,235,230,31,31,http://localhost:3001/character/2,4,0,0
+1716806119452,12,Отримати героя за id,200,OK,Thread Group 1-65,text,true,,235,127,31,31,http://localhost:3001/character/2,12,0,0
+1716806119452,13,Створити героя,200,OK,Thread Group 1-63,text,true,,235,231,32,32,http://localhost:3001/character,13,0,0
+1716806119206,261,Отриати всіх героїв,200,OK,Thread Group 1-67,text,true,,274,126,32,32,http://localhost:3001/characters,261,0,1
+1716806119463,7,Видалити героя ,200,OK,Thread Group 1-62,text,true,,249,213,32,32,http://localhost:3001/character/2,7,0,0
+1716806119463,7,Змінити героя,200,OK,Thread Group 1-64,text,true,,235,230,32,32,http://localhost:3001/character/2,7,0,0
+1716806119464,8,Створити героя,200,OK,Thread Group 1-65,text,true,,235,231,31,31,http://localhost:3001/character,8,0,0
+1716806119460,13,Отримати героя за id,200,OK,Thread Group 1-66,text,true,,235,127,31,31,http://localhost:3001/character/2,13,0,0
+1716806119215,258,Отриати всіх героїв,200,OK,Thread Group 1-68,text,true,,274,126,31,31,http://localhost:3001/characters,258,0,1
+1716806119466,8,Змінити героя,200,OK,Thread Group 1-63,text,true,,235,230,32,32,http://localhost:3001/character/2,8,0,0
+1716806119468,7,Отримати героя за id,200,OK,Thread Group 1-67,text,true,,235,127,32,32,http://localhost:3001/character/2,7,0,0
+1716806119224,254,Отриати всіх героїв,200,OK,Thread Group 1-69,text,true,,274,126,32,32,http://localhost:3001/characters,253,0,0
+1716806119475,5,Видалити героя ,200,OK,Thread Group 1-63,text,true,,249,213,32,32,http://localhost:3001/character/2,5,0,0
+1716806119476,6,Створити героя,200,OK,Thread Group 1-67,text,true,,235,231,31,31,http://localhost:3001/character,6,0,0
+1716806119471,12,Видалити героя ,200,OK,Thread Group 1-64,text,true,,249,213,32,32,http://localhost:3001/character/2,12,0,0
+1716806119473,12,Створити героя,200,OK,Thread Group 1-66,text,true,,235,231,31,31,http://localhost:3001/character,12,0,0
+1716806119472,14,Змінити героя,200,OK,Thread Group 1-65,text,true,,235,230,31,31,http://localhost:3001/character/2,14,0,0
+1716806119473,15,Отримати героя за id,200,OK,Thread Group 1-68,text,true,,235,127,31,31,http://localhost:3001/character/2,15,0,0
+1716806119234,255,Отриати всіх героїв,200,OK,Thread Group 1-70,text,true,,274,126,31,31,http://localhost:3001/characters,255,0,1
+1716806119482,7,Змінити героя,200,OK,Thread Group 1-67,text,true,,235,230,31,31,http://localhost:3001/character/2,7,0,0
+1716806119485,5,Змінити героя,200,OK,Thread Group 1-66,text,true,,235,230,31,31,http://localhost:3001/character/2,5,0,0
+1716806119478,14,Отримати героя за id,200,OK,Thread Group 1-69,text,true,,235,127,31,31,http://localhost:3001/character/2,14,0,0
+1716806119245,255,Отриати всіх героїв,200,OK,Thread Group 1-71,text,true,,274,126,32,32,http://localhost:3001/characters,255,0,1
+1716806119488,12,Створити героя,200,OK,Thread Group 1-68,text,true,,235,231,32,32,http://localhost:3001/character,12,0,0
+1716806119486,14,Видалити героя ,200,OK,Thread Group 1-65,text,true,,249,213,32,32,http://localhost:3001/character/2,14,0,0
+1716806119255,245,Отриати всіх героїв,200,OK,Thread Group 1-72,text,true,,274,126,32,32,http://localhost:3001/characters,245,0,0
+1716806119264,238,Отриати всіх героїв,200,OK,Thread Group 1-73,text,true,,274,126,31,31,http://localhost:3001/characters,238,0,2
+1716806119489,16,Отримати героя за id,200,OK,Thread Group 1-70,text,true,,235,127,32,32,http://localhost:3001/character/2,16,0,0
+1716806119493,15,Створити героя,200,OK,Thread Group 1-69,text,true,,235,231,32,32,http://localhost:3001/character,15,0,0
+1716806119490,19,Видалити героя ,200,OK,Thread Group 1-67,text,true,,249,213,32,32,http://localhost:3001/character/2,19,0,0
+1716806119274,235,Отриати всіх героїв,200,OK,Thread Group 1-74,text,true,,274,126,32,32,http://localhost:3001/characters,235,0,1
+1716806119501,11,Отримати героя за id,200,OK,Thread Group 1-72,text,true,,235,127,31,31,http://localhost:3001/character/2,11,0,0
+1716806119491,21,Видалити героя ,200,OK,Thread Group 1-66,text,true,,249,213,31,31,http://localhost:3001/character/2,21,0,0
+1716806119501,13,Отримати героя за id,200,OK,Thread Group 1-71,text,true,,235,127,31,31,http://localhost:3001/character/2,13,0,0
+1716806119501,14,Змінити героя,200,OK,Thread Group 1-68,text,true,,235,230,31,31,http://localhost:3001/character/2,14,0,0
+1716806119502,17,Отримати героя за id,200,OK,Thread Group 1-73,text,true,,235,127,31,31,http://localhost:3001/character/2,17,0,0
+1716806119287,234,Отриати всіх героїв,200,OK,Thread Group 1-75,text,true,,271,126,31,31,http://localhost:3001/characters,234,0,1
+1716806119512,10,Створити героя,200,OK,Thread Group 1-72,text,true,,235,231,31,31,http://localhost:3001/character,10,0,0
+1716806119515,10,Створити героя,200,OK,Thread Group 1-71,text,true,,235,231,32,32,http://localhost:3001/character,10,0,0
+1716806119515,11,Видалити героя ,200,OK,Thread Group 1-68,text,true,,249,213,32,32,http://localhost:3001/character/2,11,0,0
+1716806119505,22,Створити героя,200,OK,Thread Group 1-70,text,true,,235,231,32,32,http://localhost:3001/character,22,0,0
+1716806119508,20,Змінити героя,200,OK,Thread Group 1-69,text,true,,235,230,31,31,http://localhost:3001/character/2,20,0,0
+1716806119510,19,Отримати героя за id,200,OK,Thread Group 1-74,text,true,,235,127,31,31,http://localhost:3001/character/2,19,0,0
+1716806119295,235,Отриати всіх героїв,200,OK,Thread Group 1-76,text,true,,277,126,31,31,http://localhost:3001/characters,235,0,2
+1716806119525,7,Змінити героя,200,OK,Thread Group 1-71,text,true,,235,230,31,31,http://localhost:3001/character/2,7,0,0
+1716806119522,11,Змінити героя,200,OK,Thread Group 1-72,text,true,,235,230,31,31,http://localhost:3001/character/2,11,0,0
+1716806119527,6,Змінити героя,200,OK,Thread Group 1-70,text,true,,235,230,31,31,http://localhost:3001/character/2,6,0,0
+1716806119528,6,Видалити героя ,200,OK,Thread Group 1-69,text,true,,249,213,31,31,http://localhost:3001/character/2,6,0,0
+1716806119519,18,Створити героя,200,OK,Thread Group 1-73,text,true,,235,231,31,31,http://localhost:3001/character,18,0,0
+1716806119521,20,Отримати героя за id,200,OK,Thread Group 1-75,text,true,,235,127,31,31,http://localhost:3001/character/2,20,0,0
+1716806119306,237,Отриати всіх героїв,200,OK,Thread Group 1-77,text,true,,277,126,31,31,http://localhost:3001/characters,237,0,1
+1716806119534,11,Видалити героя ,200,OK,Thread Group 1-72,text,true,,249,213,31,31,http://localhost:3001/character/2,11,0,0
+1716806119533,13,Видалити героя ,200,OK,Thread Group 1-71,text,true,,249,213,31,31,http://localhost:3001/character/2,13,0,0
+1716806119534,14,Видалити героя ,200,OK,Thread Group 1-70,text,true,,249,213,29,29,http://localhost:3001/character/2,14,0,0
+1716806119537,12,Змінити героя,200,OK,Thread Group 1-73,text,true,,235,230,29,29,http://localhost:3001/character/2,12,0,0
+1716806119541,9,Створити героя,200,OK,Thread Group 1-75,text,true,,235,231,28,28,http://localhost:3001/character,9,0,0
+1716806119531,20,Отримати героя за id,200,OK,Thread Group 1-76,text,true,,235,127,28,28,http://localhost:3001/character/2,20,0,0
+1716806119529,23,Створити героя,200,OK,Thread Group 1-74,text,true,,235,231,28,28,http://localhost:3001/character,23,0,0
+1716806119314,239,Отриати всіх героїв,200,OK,Thread Group 1-78,text,true,,274,126,28,28,http://localhost:3001/characters,239,0,1
+1716806119549,7,Видалити героя ,200,OK,Thread Group 1-73,text,true,,249,213,28,28,http://localhost:3001/character/2,7,0,0
+1716806119550,7,Змінити героя,200,OK,Thread Group 1-75,text,true,,235,230,27,27,http://localhost:3001/character/2,7,0,0
+1716806119551,7,Створити героя,200,OK,Thread Group 1-76,text,true,,235,231,27,27,http://localhost:3001/character,7,0,0
+1716806119543,17,Отримати героя за id,200,OK,Thread Group 1-77,text,true,,235,127,27,27,http://localhost:3001/character/2,17,0,0
+1716806119323,238,Отриати всіх героїв,200,OK,Thread Group 1-79,text,true,,274,126,27,27,http://localhost:3001/characters,238,0,1
+1716806119557,7,Видалити героя ,200,OK,Thread Group 1-75,text,true,,249,213,27,27,http://localhost:3001/character/2,7,0,0
+1716806119559,6,Змінити героя,200,OK,Thread Group 1-76,text,true,,235,230,26,26,http://localhost:3001/character/2,6,0,0
+1716806119553,13,Змінити героя,200,OK,Thread Group 1-74,text,true,,235,230,26,26,http://localhost:3001/character/2,13,0,0
+1716806119554,13,Отримати героя за id,200,OK,Thread Group 1-78,text,true,,235,127,26,26,http://localhost:3001/character/2,13,0,0
+1716806119334,234,Отриати всіх героїв,200,OK,Thread Group 1-80,text,true,,271,126,26,26,http://localhost:3001/characters,234,0,1
+1716806119565,4,Видалити героя ,200,OK,Thread Group 1-76,text,true,,249,213,26,26,http://localhost:3001/character/2,4,0,0
+1716806119560,10,Створити героя,200,OK,Thread Group 1-77,text,true,,235,231,26,26,http://localhost:3001/character,10,0,0
+1716806119562,9,Отримати героя за id,200,OK,Thread Group 1-79,text,true,,235,127,25,25,http://localhost:3001/character/2,9,0,0
+1716806119348,224,Отриати всіх героїв,200,OK,Thread Group 1-81,text,true,,271,126,25,25,http://localhost:3001/characters,224,0,3
+1716806119570,3,Змінити героя,200,OK,Thread Group 1-77,text,true,,235,230,25,25,http://localhost:3001/character/2,3,0,0
+1716806119567,7,Створити героя,200,OK,Thread Group 1-78,text,true,,235,231,25,25,http://localhost:3001/character,7,0,0
+1716806119567,8,Видалити героя ,200,OK,Thread Group 1-74,text,true,,249,213,25,25,http://localhost:3001/character/2,8,0,0
+1716806119568,9,Отримати героя за id,200,OK,Thread Group 1-80,text,true,,235,127,24,24,http://localhost:3001/character/2,9,0,0
+1716806119354,223,Отриати всіх героїв,200,OK,Thread Group 1-82,text,true,,271,126,24,24,http://localhost:3001/characters,223,0,1
+1716806119574,5,Видалити героя ,200,OK,Thread Group 1-77,text,true,,249,213,24,24,http://localhost:3001/character/2,5,0,0
+1716806119575,5,Змінити героя,200,OK,Thread Group 1-78,text,true,,235,230,23,23,http://localhost:3001/character/2,5,0,0
+1716806119571,9,Створити героя,200,OK,Thread Group 1-79,text,true,,235,231,23,23,http://localhost:3001/character,9,0,0
+1716806119572,9,Отримати героя за id,200,OK,Thread Group 1-81,text,true,,235,127,23,23,http://localhost:3001/character/2,9,0,0
+1716806119365,217,Отриати всіх героїв,200,OK,Thread Group 1-83,text,true,,271,126,23,23,http://localhost:3001/characters,217,0,1
+1716806119580,4,Видалити героя ,200,OK,Thread Group 1-78,text,true,,249,213,23,23,http://localhost:3001/character/2,4,0,0
+1716806119581,3,Змінити героя,200,OK,Thread Group 1-79,text,true,,235,230,23,23,http://localhost:3001/character/2,3,0,0
+1716806119577,8,Створити героя,200,OK,Thread Group 1-80,text,true,,235,231,22,22,http://localhost:3001/character,8,0,0
+1716806119577,9,Отримати героя за id,200,OK,Thread Group 1-82,text,true,,235,127,22,22,http://localhost:3001/character/2,9,0,0
+1716806119375,211,Отриати всіх героїв,200,OK,Thread Group 1-84,text,true,,271,126,22,22,http://localhost:3001/characters,211,0,1
+1716806119585,3,Видалити героя ,200,OK,Thread Group 1-79,text,true,,249,213,22,22,http://localhost:3001/character/2,3,0,0
+1716806119585,4,Змінити героя,200,OK,Thread Group 1-80,text,true,,235,230,21,21,http://localhost:3001/character/2,4,0,0
+1716806119581,8,Створити героя,200,OK,Thread Group 1-81,text,true,,235,231,21,21,http://localhost:3001/character,8,0,0
+1716806119582,8,Отримати героя за id,200,OK,Thread Group 1-83,text,true,,235,127,21,21,http://localhost:3001/character/2,8,0,0
+1716806119387,204,Отриати всіх героїв,200,OK,Thread Group 1-85,text,true,,271,126,21,21,http://localhost:3001/characters,204,0,1
+1716806119589,3,Видалити героя ,200,OK,Thread Group 1-80,text,true,,249,213,21,21,http://localhost:3001/character/2,3,0,0
+1716806119590,3,Змінити героя,200,OK,Thread Group 1-81,text,true,,235,230,20,20,http://localhost:3001/character/2,3,0,0
+1716806119586,8,Створити героя,200,OK,Thread Group 1-82,text,true,,235,231,20,20,http://localhost:3001/character,8,0,0
+1716806119587,8,Отримати героя за id,200,OK,Thread Group 1-84,text,true,,235,127,20,20,http://localhost:3001/character/2,8,0,0
+1716806119395,201,Отриати всіх героїв,200,OK,Thread Group 1-86,text,true,,271,126,20,20,http://localhost:3001/characters,201,0,1
+1716806119593,5,Видалити героя ,200,OK,Thread Group 1-81,text,true,,249,213,20,20,http://localhost:3001/character/2,5,0,0
+1716806119594,5,Змінити героя,200,OK,Thread Group 1-82,text,true,,235,230,19,19,http://localhost:3001/character/2,5,0,0
+1716806119595,5,Створити героя,200,OK,Thread Group 1-84,text,true,,235,231,19,19,http://localhost:3001/character,5,0,0
+1716806119590,11,Створити героя,200,OK,Thread Group 1-83,text,true,,235,231,19,19,http://localhost:3001/character,11,0,0
+1716806119591,10,Отримати героя за id,200,OK,Thread Group 1-85,text,true,,235,127,19,19,http://localhost:3001/character/2,10,0,0
+1716806119405,198,Отриати всіх героїв,200,OK,Thread Group 1-87,text,true,,274,126,19,19,http://localhost:3001/characters,198,0,1
+1716806119599,6,Видалити героя ,200,OK,Thread Group 1-82,text,true,,249,213,19,19,http://localhost:3001/character/2,6,0,0
+1716806119600,5,Змінити героя,200,OK,Thread Group 1-84,text,true,,235,230,18,18,http://localhost:3001/character/2,5,0,0
+1716806119601,5,Змінити героя,200,OK,Thread Group 1-83,text,true,,235,230,18,18,http://localhost:3001/character/2,5,0,0
+1716806119602,5,Створити героя,200,OK,Thread Group 1-85,text,true,,235,231,18,18,http://localhost:3001/character,5,0,0
+1716806119596,11,Отримати героя за id,200,OK,Thread Group 1-86,text,true,,235,127,18,18,http://localhost:3001/character/2,11,0,0
+1716806119414,194,Отриати всіх героїв,200,OK,Thread Group 1-88,text,true,,274,126,18,18,http://localhost:3001/characters,194,0,1
+1716806119606,3,Видалити героя ,200,OK,Thread Group 1-84,text,true,,249,213,18,18,http://localhost:3001/character/2,3,0,0
+1716806119606,4,Видалити героя ,200,OK,Thread Group 1-83,text,true,,249,213,17,17,http://localhost:3001/character/2,4,0,0
+1716806119607,4,Змінити героя,200,OK,Thread Group 1-85,text,true,,235,230,17,17,http://localhost:3001/character/2,4,0,0
+1716806119604,7,Отримати героя за id,200,OK,Thread Group 1-87,text,true,,235,127,16,16,http://localhost:3001/character/2,7,0,0
+1716806119425,187,Отриати всіх героїв,200,OK,Thread Group 1-89,text,true,,268,126,16,16,http://localhost:3001/characters,187,0,1
+1716806119611,3,Видалити героя ,200,OK,Thread Group 1-85,text,true,,249,213,16,16,http://localhost:3001/character/2,3,0,0
+1716806119608,6,Створити героя,200,OK,Thread Group 1-86,text,true,,235,231,15,15,http://localhost:3001/character,6,0,0
+1716806119608,7,Отримати героя за id,200,OK,Thread Group 1-88,text,true,,235,127,15,15,http://localhost:3001/character/2,7,0,0
+1716806119435,181,Отриати всіх героїв,200,OK,Thread Group 1-90,text,true,,268,126,15,15,http://localhost:3001/characters,181,0,1
+1716806119614,4,Змінити героя,200,OK,Thread Group 1-86,text,true,,235,230,15,15,http://localhost:3001/character/2,4,0,0
+1716806119615,4,Створити героя,200,OK,Thread Group 1-88,text,true,,235,231,15,15,http://localhost:3001/character,4,0,0
+1716806119612,8,Створити героя,200,OK,Thread Group 1-87,text,true,,235,231,15,15,http://localhost:3001/character,8,0,0
+1716806119613,8,Отримати героя за id,200,OK,Thread Group 1-89,text,true,,235,127,15,15,http://localhost:3001/character/2,8,0,0
+1716806119444,178,Отриати всіх героїв,200,OK,Thread Group 1-91,text,true,,274,126,15,15,http://localhost:3001/characters,178,0,1
+1716806119618,6,Видалити героя ,200,OK,Thread Group 1-86,text,true,,249,213,15,15,http://localhost:3001/character/2,6,0,0
+1716806119619,5,Змінити героя,200,OK,Thread Group 1-88,text,true,,235,230,15,15,http://localhost:3001/character/2,5,0,0
+1716806119620,6,Змінити героя,200,OK,Thread Group 1-87,text,true,,235,230,14,14,http://localhost:3001/character/2,6,0,0
+1716806119621,6,Створити героя,200,OK,Thread Group 1-89,text,true,,235,231,14,14,http://localhost:3001/character,6,0,0
+1716806119616,12,Отримати героя за id,200,OK,Thread Group 1-90,text,true,,235,127,14,14,http://localhost:3001/character/2,12,0,0
+1716806119455,174,Отриати всіх героїв,200,OK,Thread Group 1-92,text,true,,274,126,14,14,http://localhost:3001/characters,174,0,1
+1716806119625,5,Видалити героя ,200,OK,Thread Group 1-88,text,true,,249,213,14,14,http://localhost:3001/character/2,5,0,0
+1716806119626,5,Видалити героя ,200,OK,Thread Group 1-87,text,true,,249,213,13,13,http://localhost:3001/character/2,5,0,0
+1716806119627,5,Змінити героя,200,OK,Thread Group 1-89,text,true,,235,230,13,13,http://localhost:3001/character/2,5,0,0
+1716806119622,11,Отримати героя за id,200,OK,Thread Group 1-91,text,true,,235,127,12,12,http://localhost:3001/character/2,11,0,0
+1716806119467,167,Отриати всіх героїв,200,OK,Thread Group 1-93,text,true,,268,126,12,12,http://localhost:3001/characters,167,0,1
+1716806119632,3,Видалити героя ,200,OK,Thread Group 1-89,text,true,,249,213,12,12,http://localhost:3001/character/2,3,0,0
+1716806119628,8,Створити героя,200,OK,Thread Group 1-90,text,true,,235,231,11,11,http://localhost:3001/character,8,0,0
+1716806119629,7,Отримати героя за id,200,OK,Thread Group 1-92,text,true,,235,127,11,11,http://localhost:3001/character/2,7,0,0
+1716806119475,162,Отриати всіх героїв,200,OK,Thread Group 1-94,text,true,,268,126,11,11,http://localhost:3001/characters,162,0,1
+1716806119636,4,Змінити героя,200,OK,Thread Group 1-90,text,true,,235,230,11,11,http://localhost:3001/character/2,4,0,0
+1716806119637,3,Створити героя,200,OK,Thread Group 1-92,text,true,,235,231,11,11,http://localhost:3001/character,3,0,0
+1716806119633,8,Створити героя,200,OK,Thread Group 1-91,text,true,,235,231,11,11,http://localhost:3001/character,8,0,0
+1716806119634,8,Отримати героя за id,200,OK,Thread Group 1-93,text,true,,235,127,11,11,http://localhost:3001/character/2,8,0,0
+1716806119484,159,Отриати всіх героїв,200,OK,Thread Group 1-95,text,true,,274,126,11,11,http://localhost:3001/characters,159,0,1
+1716806119640,4,Видалити героя ,200,OK,Thread Group 1-90,text,true,,249,213,11,11,http://localhost:3001/character/2,4,0,0
+1716806119640,5,Змінити героя,200,OK,Thread Group 1-92,text,true,,235,230,10,10,http://localhost:3001/character/2,5,0,0
+1716806119641,5,Змінити героя,200,OK,Thread Group 1-91,text,true,,235,230,10,10,http://localhost:3001/character/2,5,0,0
+1716806119638,9,Отримати героя за id,200,OK,Thread Group 1-94,text,true,,235,127,10,10,http://localhost:3001/character/2,9,0,0
+1716806119496,151,Отриати всіх героїв,200,OK,Thread Group 1-96,text,true,,271,126,10,10,http://localhost:3001/characters,151,0,1
+1716806119645,4,Видалити героя ,200,OK,Thread Group 1-92,text,true,,249,213,10,10,http://localhost:3001/character/2,4,0,0
+1716806119646,3,Видалити героя ,200,OK,Thread Group 1-91,text,true,,249,213,9,9,http://localhost:3001/character/2,3,0,0
+1716806119642,8,Створити героя,200,OK,Thread Group 1-93,text,true,,235,231,9,9,http://localhost:3001/character,8,0,0
+1716806119643,8,Отримати героя за id,200,OK,Thread Group 1-95,text,true,,235,127,8,8,http://localhost:3001/character/2,7,0,0
+1716806119505,147,Отриати всіх героїв,200,OK,Thread Group 1-97,text,true,,268,126,8,8,http://localhost:3001/characters,147,0,2
+1716806119650,3,Змінити героя,200,OK,Thread Group 1-93,text,true,,235,230,8,8,http://localhost:3001/character/2,3,0,0
+1716806119647,6,Створити героя,200,OK,Thread Group 1-94,text,true,,235,231,8,8,http://localhost:3001/character,6,0,0
+1716806119648,8,Отримати героя за id,200,OK,Thread Group 1-96,text,true,,235,127,8,8,http://localhost:3001/character/2,8,0,0
+1716806119515,142,Отриати всіх героїв,200,OK,Thread Group 1-98,text,true,,271,126,8,8,http://localhost:3001/characters,142,0,1
+1716806119653,12,Видалити героя ,200,OK,Thread Group 1-93,text,true,,249,213,8,8,http://localhost:3001/character/2,12,0,0
+1716806119654,12,Змінити героя,200,OK,Thread Group 1-94,text,true,,235,230,8,8,http://localhost:3001/character/2,12,0,0
+1716806119656,10,Створити героя,200,OK,Thread Group 1-96,text,true,,235,231,7,7,http://localhost:3001/character,10,0,0
+1716806119657,12,Отримати героя за id,200,OK,Thread Group 1-98,text,true,,235,127,7,7,http://localhost:3001/character/2,12,0,0
+1716806119651,18,Створити героя,200,OK,Thread Group 1-95,text,true,,235,231,7,7,http://localhost:3001/character,18,0,0
+1716806119666,7,Видалити героя ,200,OK,Thread Group 1-94,text,true,,249,213,7,7,http://localhost:3001/character/2,7,0,0
+1716806119524,149,Отриати всіх героїв,200,OK,Thread Group 1-99,text,true,,274,126,7,7,http://localhost:3001/characters,149,0,1
+1716806119652,21,Отримати героя за id,200,OK,Thread Group 1-97,text,true,,235,127,7,7,http://localhost:3001/character/2,21,0,0
+1716806119667,6,Змінити героя,200,OK,Thread Group 1-96,text,true,,235,230,7,7,http://localhost:3001/character/2,6,0,0
+1716806119536,139,Отриати всіх героїв,200,OK,Thread Group 1-100,text,true,,271,126,6,6,http://localhost:3001/characters,138,0,2
+1716806119670,5,Змінити героя,200,OK,Thread Group 1-95,text,true,,235,230,6,6,http://localhost:3001/character/2,5,0,0
+1716806119669,18,Створити героя,200,OK,Thread Group 1-98,text,true,,235,231,6,6,http://localhost:3001/character,18,0,0
+1716806119675,12,Видалити героя ,200,OK,Thread Group 1-95,text,true,,249,213,6,6,http://localhost:3001/character/2,12,0,0
+1716806119673,14,Отримати героя за id,200,OK,Thread Group 1-99,text,true,,235,127,6,6,http://localhost:3001/character/2,14,0,0
+1716806119674,14,Видалити героя ,200,OK,Thread Group 1-96,text,true,,249,213,5,5,http://localhost:3001/character/2,14,0,0
+1716806119673,16,Створити героя,200,OK,Thread Group 1-97,text,true,,235,231,4,4,http://localhost:3001/character,16,0,0
+1716806119675,15,Отримати героя за id,200,OK,Thread Group 1-100,text,true,,235,127,4,4,http://localhost:3001/character/2,15,0,0
+1716806119687,5,Створити героя,200,OK,Thread Group 1-99,text,true,,235,231,4,4,http://localhost:3001/character,5,0,0
+1716806119687,6,Змінити героя,200,OK,Thread Group 1-98,text,true,,235,230,4,4,http://localhost:3001/character/2,6,0,0
+1716806119690,4,Змінити героя,200,OK,Thread Group 1-97,text,true,,235,230,4,4,http://localhost:3001/character/2,4,0,0
+1716806119691,4,Створити героя,200,OK,Thread Group 1-100,text,true,,235,231,4,4,http://localhost:3001/character,4,0,0
+1716806119692,4,Змінити героя,200,OK,Thread Group 1-99,text,true,,235,230,4,4,http://localhost:3001/character/2,3,0,0
+1716806119693,3,Видалити героя ,200,OK,Thread Group 1-98,text,true,,249,213,4,4,http://localhost:3001/character/2,3,0,0
+1716806119694,3,Видалити героя ,200,OK,Thread Group 1-97,text,true,,249,213,4,4,http://localhost:3001/character/2,3,0,0
+1716806119695,3,Змінити героя,200,OK,Thread Group 1-100,text,true,,235,230,2,2,http://localhost:3001/character/2,3,0,0
+1716806119696,4,Видалити героя ,200,OK,Thread Group 1-99,text,true,,249,213,2,2,http://localhost:3001/character/2,4,0,0
+1716806119699,3,Видалити героя ,200,OK,Thread Group 1-100,text,true,,249,213,1,1,http://localhost:3001/character/2,3,0,0
